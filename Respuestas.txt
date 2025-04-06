@@ -1,0 +1,3 @@
+* ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+Respuesta: No se puede ver el archivo en la rama main porque cada rama es independiente y yo la modificación la realice en la rama Opcion_2

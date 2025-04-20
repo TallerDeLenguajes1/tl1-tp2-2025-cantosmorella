@@ -15,4 +15,5 @@ int main()
         printf("%f ", *p);
         p++;
     }
+    return 0;
 }
